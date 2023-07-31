@@ -1,0 +1,48 @@
+E:\Project Work with.Net\Devesh\BookShoppingProject_1.Utility\bin\Debug\net5.0\BookShoppingProject_1.Utility.deps.json
+E:\Project Work with.Net\Devesh\BookShoppingProject_1.Utility\bin\Debug\net5.0\BookShoppingProject_1.Utility.dll
+E:\Project Work with.Net\Devesh\BookShoppingProject_1.Utility\bin\Debug\net5.0\ref\BookShoppingProject_1.Utility.dll
+E:\Project Work with.Net\Devesh\BookShoppingProject_1.Utility\bin\Debug\net5.0\BookShoppingProject_1.Utility.pdb
+E:\Project Work with.Net\Devesh\BookShoppingProject_1.Utility\obj\Debug\net5.0\BookShoppingProject_1.Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project Work with.Net\Devesh\BookShoppingProject_1.Utility\obj\Debug\net5.0\BookShoppingProject_1.Utility.AssemblyInfoInputs.cache
+E:\Project Work with.Net\Devesh\BookShoppingProject_1.Utility\obj\Debug\net5.0\BookShoppingProject_1.Utility.AssemblyInfo.cs
+E:\Project Work with.Net\Devesh\BookShoppingProject_1.Utility\obj\Debug\net5.0\BookShoppingProject_1.Utility.csproj.CoreCompileInputs.cache
+E:\Project Work with.Net\Devesh\BookShoppingProject_1.Utility\obj\Debug\net5.0\BookShoppingProject_1.Utility.dll
+E:\Project Work with.Net\Devesh\BookShoppingProject_1.Utility\obj\Debug\net5.0\ref\BookShoppingProject_1.Utility.dll
+E:\Project Work with.Net\Devesh\BookShoppingProject_1.Utility\obj\Debug\net5.0\BookShoppingProject_1.Utility.pdb
+E:\Project Work with.Net\Devesh\BookShoppingProject_1.Utility\obj\Debug\net5.0\BookShoppingProject_1.Utility.csprojAssemblyReference.cache
+F:\Project Work with.Net\Devesh\BookShoppingProject_1.Utility\bin\Debug\net5.0\BookShoppingProject_1.Utility.deps.json
+F:\Project Work with.Net\Devesh\BookShoppingProject_1.Utility\bin\Debug\net5.0\BookShoppingProject_1.Utility.dll
+F:\Project Work with.Net\Devesh\BookShoppingProject_1.Utility\bin\Debug\net5.0\ref\BookShoppingProject_1.Utility.dll
+F:\Project Work with.Net\Devesh\BookShoppingProject_1.Utility\bin\Debug\net5.0\BookShoppingProject_1.Utility.pdb
+F:\Project Work with.Net\Devesh\BookShoppingProject_1.Utility\obj\Debug\net5.0\BookShoppingProject_1.Utility.csproj.AssemblyReference.cache
+F:\Project Work with.Net\Devesh\BookShoppingProject_1.Utility\obj\Debug\net5.0\BookShoppingProject_1.Utility.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project Work with.Net\Devesh\BookShoppingProject_1.Utility\obj\Debug\net5.0\BookShoppingProject_1.Utility.AssemblyInfoInputs.cache
+F:\Project Work with.Net\Devesh\BookShoppingProject_1.Utility\obj\Debug\net5.0\BookShoppingProject_1.Utility.AssemblyInfo.cs
+F:\Project Work with.Net\Devesh\BookShoppingProject_1.Utility\obj\Debug\net5.0\BookShoppingProject_1.Utility.csproj.CoreCompileInputs.cache
+F:\Project Work with.Net\Devesh\BookShoppingProject_1.Utility\obj\Debug\net5.0\BookShoppingProject_1.Utility.dll
+F:\Project Work with.Net\Devesh\BookShoppingProject_1.Utility\obj\Debug\net5.0\ref\BookShoppingProject_1.Utility.dll
+F:\Project Work with.Net\Devesh\BookShoppingProject_1.Utility\obj\Debug\net5.0\BookShoppingProject_1.Utility.pdb
+D:\Devesh\BookShoppingProject_1.Utility\bin\Debug\net5.0\BookShoppingProject_1.Utility.deps.json
+D:\Devesh\BookShoppingProject_1.Utility\bin\Debug\net5.0\BookShoppingProject_1.Utility.dll
+D:\Devesh\BookShoppingProject_1.Utility\bin\Debug\net5.0\ref\BookShoppingProject_1.Utility.dll
+D:\Devesh\BookShoppingProject_1.Utility\bin\Debug\net5.0\BookShoppingProject_1.Utility.pdb
+D:\Devesh\BookShoppingProject_1.Utility\obj\Debug\net5.0\BookShoppingProject_1.Utility.csproj.AssemblyReference.cache
+D:\Devesh\BookShoppingProject_1.Utility\obj\Debug\net5.0\BookShoppingProject_1.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devesh\BookShoppingProject_1.Utility\obj\Debug\net5.0\BookShoppingProject_1.Utility.AssemblyInfoInputs.cache
+D:\Devesh\BookShoppingProject_1.Utility\obj\Debug\net5.0\BookShoppingProject_1.Utility.AssemblyInfo.cs
+D:\Devesh\BookShoppingProject_1.Utility\obj\Debug\net5.0\BookShoppingProject_1.Utility.csproj.CoreCompileInputs.cache
+D:\Devesh\BookShoppingProject_1.Utility\obj\Debug\net5.0\BookShoppingProject_1.Utility.dll
+D:\Devesh\BookShoppingProject_1.Utility\obj\Debug\net5.0\ref\BookShoppingProject_1.Utility.dll
+D:\Devesh\BookShoppingProject_1.Utility\obj\Debug\net5.0\BookShoppingProject_1.Utility.pdb
+E:\Devesh\BookShoppingProject_1.Utility\bin\Debug\net5.0\BookShoppingProject_1.Utility.deps.json
+E:\Devesh\BookShoppingProject_1.Utility\bin\Debug\net5.0\BookShoppingProject_1.Utility.dll
+E:\Devesh\BookShoppingProject_1.Utility\bin\Debug\net5.0\ref\BookShoppingProject_1.Utility.dll
+E:\Devesh\BookShoppingProject_1.Utility\bin\Debug\net5.0\BookShoppingProject_1.Utility.pdb
+E:\Devesh\BookShoppingProject_1.Utility\obj\Debug\net5.0\BookShoppingProject_1.Utility.csproj.AssemblyReference.cache
+E:\Devesh\BookShoppingProject_1.Utility\obj\Debug\net5.0\BookShoppingProject_1.Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\Devesh\BookShoppingProject_1.Utility\obj\Debug\net5.0\BookShoppingProject_1.Utility.AssemblyInfoInputs.cache
+E:\Devesh\BookShoppingProject_1.Utility\obj\Debug\net5.0\BookShoppingProject_1.Utility.AssemblyInfo.cs
+E:\Devesh\BookShoppingProject_1.Utility\obj\Debug\net5.0\BookShoppingProject_1.Utility.csproj.CoreCompileInputs.cache
+E:\Devesh\BookShoppingProject_1.Utility\obj\Debug\net5.0\BookShoppingProject_1.Utility.dll
+E:\Devesh\BookShoppingProject_1.Utility\obj\Debug\net5.0\ref\BookShoppingProject_1.Utility.dll
+E:\Devesh\BookShoppingProject_1.Utility\obj\Debug\net5.0\BookShoppingProject_1.Utility.pdb

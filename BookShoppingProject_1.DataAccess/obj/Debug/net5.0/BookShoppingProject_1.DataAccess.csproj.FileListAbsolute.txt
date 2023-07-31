@@ -1,0 +1,72 @@
+E:\Project Work with.Net\Devesh\BookShoppingProject_1.DataAccess\bin\Debug\net5.0\BookShoppingProject_1.DataAccess.deps.json
+E:\Project Work with.Net\Devesh\BookShoppingProject_1.DataAccess\bin\Debug\net5.0\BookShoppingProject_1.DataAccess.runtimeconfig.json
+E:\Project Work with.Net\Devesh\BookShoppingProject_1.DataAccess\bin\Debug\net5.0\BookShoppingProject_1.DataAccess.runtimeconfig.dev.json
+E:\Project Work with.Net\Devesh\BookShoppingProject_1.DataAccess\bin\Debug\net5.0\BookShoppingProject_1.DataAccess.dll
+E:\Project Work with.Net\Devesh\BookShoppingProject_1.DataAccess\bin\Debug\net5.0\ref\BookShoppingProject_1.DataAccess.dll
+E:\Project Work with.Net\Devesh\BookShoppingProject_1.DataAccess\bin\Debug\net5.0\BookShoppingProject_1.DataAccess.pdb
+E:\Project Work with.Net\Devesh\BookShoppingProject_1.DataAccess\bin\Debug\net5.0\BookShoppingProject_1.Models.dll
+E:\Project Work with.Net\Devesh\BookShoppingProject_1.DataAccess\bin\Debug\net5.0\BookShoppingProject_1.Models.pdb
+E:\Project Work with.Net\Devesh\BookShoppingProject_1.DataAccess\obj\Debug\net5.0\BookShoppingProject_1.DataAccess.csprojAssemblyReference.cache
+E:\Project Work with.Net\Devesh\BookShoppingProject_1.DataAccess\obj\Debug\net5.0\BookShoppingProject_1.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project Work with.Net\Devesh\BookShoppingProject_1.DataAccess\obj\Debug\net5.0\BookShoppingProject_1.DataAccess.AssemblyInfoInputs.cache
+E:\Project Work with.Net\Devesh\BookShoppingProject_1.DataAccess\obj\Debug\net5.0\BookShoppingProject_1.DataAccess.AssemblyInfo.cs
+E:\Project Work with.Net\Devesh\BookShoppingProject_1.DataAccess\obj\Debug\net5.0\BookShoppingProject_1.DataAccess.csproj.CoreCompileInputs.cache
+E:\Project Work with.Net\Devesh\BookShoppingProject_1.DataAccess\obj\Debug\net5.0\BookShoppingProject_1.DataAccess.csproj.CopyComplete
+E:\Project Work with.Net\Devesh\BookShoppingProject_1.DataAccess\obj\Debug\net5.0\BookShoppingProject_1.DataAccess.dll
+E:\Project Work with.Net\Devesh\BookShoppingProject_1.DataAccess\obj\Debug\net5.0\ref\BookShoppingProject_1.DataAccess.dll
+E:\Project Work with.Net\Devesh\BookShoppingProject_1.DataAccess\obj\Debug\net5.0\BookShoppingProject_1.DataAccess.pdb
+E:\Project Work with.Net\Devesh\BookShoppingProject_1.DataAccess\obj\Debug\net5.0\BookShoppingProject_1.DataAccess.genruntimeconfig.cache
+F:\Project Work with.Net\Devesh\BookShoppingProject_1.DataAccess\bin\Debug\net5.0\BookShoppingProject_1.DataAccess.deps.json
+F:\Project Work with.Net\Devesh\BookShoppingProject_1.DataAccess\bin\Debug\net5.0\BookShoppingProject_1.DataAccess.runtimeconfig.json
+F:\Project Work with.Net\Devesh\BookShoppingProject_1.DataAccess\bin\Debug\net5.0\BookShoppingProject_1.DataAccess.runtimeconfig.dev.json
+F:\Project Work with.Net\Devesh\BookShoppingProject_1.DataAccess\bin\Debug\net5.0\BookShoppingProject_1.DataAccess.dll
+F:\Project Work with.Net\Devesh\BookShoppingProject_1.DataAccess\bin\Debug\net5.0\ref\BookShoppingProject_1.DataAccess.dll
+F:\Project Work with.Net\Devesh\BookShoppingProject_1.DataAccess\bin\Debug\net5.0\BookShoppingProject_1.DataAccess.pdb
+F:\Project Work with.Net\Devesh\BookShoppingProject_1.DataAccess\bin\Debug\net5.0\BookShoppingProject_1.Models.dll
+F:\Project Work with.Net\Devesh\BookShoppingProject_1.DataAccess\bin\Debug\net5.0\BookShoppingProject_1.Models.pdb
+F:\Project Work with.Net\Devesh\BookShoppingProject_1.DataAccess\obj\Debug\net5.0\BookShoppingProject_1.DataAccess.csproj.AssemblyReference.cache
+F:\Project Work with.Net\Devesh\BookShoppingProject_1.DataAccess\obj\Debug\net5.0\BookShoppingProject_1.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project Work with.Net\Devesh\BookShoppingProject_1.DataAccess\obj\Debug\net5.0\BookShoppingProject_1.DataAccess.AssemblyInfoInputs.cache
+F:\Project Work with.Net\Devesh\BookShoppingProject_1.DataAccess\obj\Debug\net5.0\BookShoppingProject_1.DataAccess.AssemblyInfo.cs
+F:\Project Work with.Net\Devesh\BookShoppingProject_1.DataAccess\obj\Debug\net5.0\BookShoppingProject_1.DataAccess.csproj.CoreCompileInputs.cache
+F:\Project Work with.Net\Devesh\BookShoppingProject_1.DataAccess\obj\Debug\net5.0\BookShoppingProject_1.DataAccess.csproj.CopyComplete
+F:\Project Work with.Net\Devesh\BookShoppingProject_1.DataAccess\obj\Debug\net5.0\BookShoppingProject_1.DataAccess.dll
+F:\Project Work with.Net\Devesh\BookShoppingProject_1.DataAccess\obj\Debug\net5.0\ref\BookShoppingProject_1.DataAccess.dll
+F:\Project Work with.Net\Devesh\BookShoppingProject_1.DataAccess\obj\Debug\net5.0\BookShoppingProject_1.DataAccess.pdb
+F:\Project Work with.Net\Devesh\BookShoppingProject_1.DataAccess\obj\Debug\net5.0\BookShoppingProject_1.DataAccess.genruntimeconfig.cache
+D:\Devesh\BookShoppingProject_1.DataAccess\bin\Debug\net5.0\BookShoppingProject_1.DataAccess.deps.json
+D:\Devesh\BookShoppingProject_1.DataAccess\bin\Debug\net5.0\BookShoppingProject_1.DataAccess.runtimeconfig.json
+D:\Devesh\BookShoppingProject_1.DataAccess\bin\Debug\net5.0\BookShoppingProject_1.DataAccess.runtimeconfig.dev.json
+D:\Devesh\BookShoppingProject_1.DataAccess\bin\Debug\net5.0\BookShoppingProject_1.DataAccess.dll
+D:\Devesh\BookShoppingProject_1.DataAccess\bin\Debug\net5.0\ref\BookShoppingProject_1.DataAccess.dll
+D:\Devesh\BookShoppingProject_1.DataAccess\bin\Debug\net5.0\BookShoppingProject_1.DataAccess.pdb
+D:\Devesh\BookShoppingProject_1.DataAccess\bin\Debug\net5.0\BookShoppingProject_1.Models.dll
+D:\Devesh\BookShoppingProject_1.DataAccess\bin\Debug\net5.0\BookShoppingProject_1.Models.pdb
+D:\Devesh\BookShoppingProject_1.DataAccess\obj\Debug\net5.0\BookShoppingProject_1.DataAccess.csproj.AssemblyReference.cache
+D:\Devesh\BookShoppingProject_1.DataAccess\obj\Debug\net5.0\BookShoppingProject_1.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devesh\BookShoppingProject_1.DataAccess\obj\Debug\net5.0\BookShoppingProject_1.DataAccess.AssemblyInfoInputs.cache
+D:\Devesh\BookShoppingProject_1.DataAccess\obj\Debug\net5.0\BookShoppingProject_1.DataAccess.AssemblyInfo.cs
+D:\Devesh\BookShoppingProject_1.DataAccess\obj\Debug\net5.0\BookShoppingProject_1.DataAccess.csproj.CoreCompileInputs.cache
+D:\Devesh\BookShoppingProject_1.DataAccess\obj\Debug\net5.0\BookShoppingProject_1.DataAccess.csproj.CopyComplete
+D:\Devesh\BookShoppingProject_1.DataAccess\obj\Debug\net5.0\BookShoppingProject_1.DataAccess.dll
+D:\Devesh\BookShoppingProject_1.DataAccess\obj\Debug\net5.0\ref\BookShoppingProject_1.DataAccess.dll
+D:\Devesh\BookShoppingProject_1.DataAccess\obj\Debug\net5.0\BookShoppingProject_1.DataAccess.pdb
+D:\Devesh\BookShoppingProject_1.DataAccess\obj\Debug\net5.0\BookShoppingProject_1.DataAccess.genruntimeconfig.cache
+E:\Devesh\BookShoppingProject_1.DataAccess\bin\Debug\net5.0\BookShoppingProject_1.DataAccess.deps.json
+E:\Devesh\BookShoppingProject_1.DataAccess\bin\Debug\net5.0\BookShoppingProject_1.DataAccess.runtimeconfig.json
+E:\Devesh\BookShoppingProject_1.DataAccess\bin\Debug\net5.0\BookShoppingProject_1.DataAccess.runtimeconfig.dev.json
+E:\Devesh\BookShoppingProject_1.DataAccess\bin\Debug\net5.0\BookShoppingProject_1.DataAccess.dll
+E:\Devesh\BookShoppingProject_1.DataAccess\bin\Debug\net5.0\ref\BookShoppingProject_1.DataAccess.dll
+E:\Devesh\BookShoppingProject_1.DataAccess\bin\Debug\net5.0\BookShoppingProject_1.DataAccess.pdb
+E:\Devesh\BookShoppingProject_1.DataAccess\bin\Debug\net5.0\BookShoppingProject_1.Models.dll
+E:\Devesh\BookShoppingProject_1.DataAccess\bin\Debug\net5.0\BookShoppingProject_1.Models.pdb
+E:\Devesh\BookShoppingProject_1.DataAccess\obj\Debug\net5.0\BookShoppingProject_1.DataAccess.csproj.AssemblyReference.cache
+E:\Devesh\BookShoppingProject_1.DataAccess\obj\Debug\net5.0\BookShoppingProject_1.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Devesh\BookShoppingProject_1.DataAccess\obj\Debug\net5.0\BookShoppingProject_1.DataAccess.AssemblyInfoInputs.cache
+E:\Devesh\BookShoppingProject_1.DataAccess\obj\Debug\net5.0\BookShoppingProject_1.DataAccess.AssemblyInfo.cs
+E:\Devesh\BookShoppingProject_1.DataAccess\obj\Debug\net5.0\BookShoppingProject_1.DataAccess.csproj.CoreCompileInputs.cache
+E:\Devesh\BookShoppingProject_1.DataAccess\obj\Debug\net5.0\BookShoppingProject_1.DataAccess.csproj.CopyComplete
+E:\Devesh\BookShoppingProject_1.DataAccess\obj\Debug\net5.0\BookShoppingProject_1.DataAccess.dll
+E:\Devesh\BookShoppingProject_1.DataAccess\obj\Debug\net5.0\ref\BookShoppingProject_1.DataAccess.dll
+E:\Devesh\BookShoppingProject_1.DataAccess\obj\Debug\net5.0\BookShoppingProject_1.DataAccess.pdb
+E:\Devesh\BookShoppingProject_1.DataAccess\obj\Debug\net5.0\BookShoppingProject_1.DataAccess.genruntimeconfig.cache
